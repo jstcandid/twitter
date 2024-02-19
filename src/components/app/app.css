@@ -1,0 +1,14 @@
+.app {
+  margin: 0 auto;
+  max-width: 1569px;
+  width: 100%;
+}
+
+.wrapper-body {
+  margin-bottom: 20rem;
+  padding: 0rem 26rem 1rem 26rem;
+}
+
+.filter-wrapper {
+  margin-bottom: 1rem;
+}
